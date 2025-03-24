@@ -31,3 +31,12 @@ for (int i = 0; i < n; i++) // Menggunakan perulangan for untuk menyimpan data p
     cin >> arr[i]; // Menyimpan nilai data n kedalam array arr
 }
 }
+
+void insertionSort()
+{ // Procedure Insertionsort
+
+    int temp; // Membuat variable data temporer atau penyimpanan sementara
+    int j, i; // Membuat variable j sebagai penanda
+    
+    for (i = 1; i <= n -1; i++)
+}
